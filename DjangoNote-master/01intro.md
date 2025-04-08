@@ -152,11 +152,6 @@ python manage.py startapp myapp
 - **App** is independent module/feature of project.
 
 
-### URL
-Define URL routing for project.
-- https://technologychannel.org/ - Root URL
-- https://technologychannel.org/about/ - About URL
-
 ### Views
 Logic for handling request and returning response. It can be function or class.
 
